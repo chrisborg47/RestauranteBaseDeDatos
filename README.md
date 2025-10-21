@@ -1,6 +1,6 @@
 # Proyecto Base de Datos – Restaurante
 
-Repositorio del proyecto final de Bases de Datos I – Universidad Latina de Costa Rica.  
+Repositorio del proyecto de Bases de Datos I – Universidad Latina de Costa Rica.  
 Desarrollado por el equipo:
 - Val  
 - Tomás  
